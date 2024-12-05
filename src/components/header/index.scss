@@ -1,0 +1,38 @@
+.logo-badge {
+    background-color: #F8CDD9;
+    color: #040404;
+    padding-top: 2px;
+}
+
+.nav-link {
+    color: #707070;
+}
+
+.nav-item.active {
+    border-bottom: 4px solid #731054;
+
+    .nav-link {
+        color: #731054;
+        font-weight: 700;
+    }
+}
+
+.nav-earn {
+    margin-top: 5px;
+    background: linear-gradient(to right, #731054, #DE0D6F);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.header-notes {
+    color: #707070;
+}
+
+.super-button {
+    background: linear-gradient(to right, #731054, #DE0D6F);
+    transition: transform 0.2s ease-in-out;
+}
+
+.menu-avatar {
+    background-color: #D6E4F4;
+}
